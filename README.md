@@ -1,8 +1,16 @@
 # TIP 
 
 ## 목차 (바로가기)
+- [Vscode 원격 연결](#vscode_remote)
 - [Vscode-ColabServer 연동](#sec_vscode_colab)
 - [Docker-Compose](#sec_docker_compose)
+
+---
+
+<a id="vscode_remote"></a>
+## Vscode 원격 연결
+<img src="vscode_remote.png">
+
 
 ---
 

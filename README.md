@@ -5,6 +5,7 @@
 - [원격 pc 폴더 연결(마운트)](#samba)
 - [Vscode-ColabServer 연동](#sec_vscode_colab)
 - [Docker-Compose](#sec_docker_compose)
+- [우분투 고정 ip 연결](#ip_connect)
 
 ---
 
@@ -13,6 +14,13 @@
 <img src="vscode_remote.png">
 
 ---
+
+<a id="ip_connect"></a>
+## 우분투 고정 ip 연결
+<img src="ip_connect.png">
+
+---
+
 
 <a id="samba"></a>
 ## 원격 pc 폴더 연동(마운트)
